@@ -1,4 +1,4 @@
-# papers_we_love
+# Papers We Love
 
 ## Xudong's 5 Top Picks
 * Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code, SOSP, 2001.
