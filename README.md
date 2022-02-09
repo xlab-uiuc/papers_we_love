@@ -6,6 +6,7 @@
 * All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications, OSDI, 2014.
 * The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86), CCS, 2007.
 * Dominant Resource Fairness: Fair Allocation of Multiple Resource Types, NSDI, 2011.
+* [Slides](https://docs.google.com/presentation/d/1dGYgfGT96ekEC5KGs6lk9UP8oMRulZWKX82AfLRoQ9E/edit?usp=sharing)
 
 ## [Parth](https://thakkarparth007.github.io/)'s Top Picks (2/9/2022)
 * KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs, OSDI, 2008.
