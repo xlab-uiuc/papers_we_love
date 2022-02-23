@@ -14,7 +14,7 @@
 * code2vec: Learning Distributed Representations of Code, POPL, 2019.
 * Learning Semantic Program Embeddings with Graph Interval Neural Network, OOPSLA, 2020.
 
-## [Kevin (Kai-Hsun)](https://www.linkedin.com/in/kaihsun1996/)'s Top Picks (2/23/2022)
+## [Kevin (Kai-Hsun)](https://www.linkedin.com/in/kaihsun1996/)'s Top Picks (2/23/2022) [(Slide)](https://docs.google.com/presentation/d/1rJBySX68digz3TiRELmIlQj9BiB56SpnHmlDjOl6V4Y/edit?usp=sharing)
 * MapReduce: Simplified Data Processing on Large Clusters, OSDI, 2004.
 * ScaleCheck: A Single-Machine Approach for Discovering Scalability Bugs in Large Distributed Systems, FAST, 2019.
 * Hidden Technical Debt in Machine Learning Systems, NIPS, 2015.
