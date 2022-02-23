@@ -13,3 +13,10 @@
 * DistAI: Data-Driven Automated Invariant Learning for Distributed Protocols, OSDI, 2021.
 * code2vec: Learning Distributed Representations of Code, POPL, 2019.
 * Learning Semantic Program Embeddings with Graph Interval Neural Network, OOPSLA, 2020.
+
+## [Kevin (Kai-Hsun)](https://www.linkedin.com/in/kaihsun1996/)'s Top Picks (2/23/2022)
+* MapReduce: Simplified Data Processing on Large Clusters, OSDI, 2004.
+* ScaleCheck: A Single-Machine Approach for Discovering Scalability Bugs in Large Distributed Systems, FAST, 2019.
+* Hidden Technical Debt in Machine Learning Systems, NIPS, 2015.
+* Ray: A Distributed Framework for Emerging AI Applications, OSDI, 2018.
+* LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation, OSDI, 2018.
