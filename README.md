@@ -21,7 +21,7 @@
 * Ray: A Distributed Framework for Emerging AI Applications, OSDI, 2018.
 * LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation, OSDI, 2018.
 
-## [Xuhao](https://www.xuhaol.com/)'s Top Picks (3/2/2022) (Slides)[]
+## [Xuhao](https://www.xuhaol.com/)'s Top Picks (3/2/2022) [(Slides)](https://docs.google.com/presentation/d/1tGXN5pZ-qaA7oG2JLUCWPsGj4A2Yiqm6ClKcw0ehN_Y/edit?usp=sharing)
 * On the Duality of Operating System Structures, SIGOPS Operating Systems Review, 1979.
 * The Design and Implementation of a Log-Structured File System, TOCS, 1992.
 * In Search of an Understandable Consensus Algorithm, USENIX ATC, 2014.
