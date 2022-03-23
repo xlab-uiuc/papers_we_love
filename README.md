@@ -27,3 +27,10 @@
 * In Search of an Understandable Consensus Algorithm, USENIX ATC, 2014.
 * A Cloud-Scale Acceleration Architecture, MICRO, 2016.
 * AIFM: High-Performance, Application-Integrated Far Memory, OSDI, 2020.
+
+## [Siyuan](https://schai.me/)'s Top Picks (3/23/2022) [(Slides)]()
+* MapReduce: Simplified Data Processing on Large Clusters, OSDI, 2004.
+* Exploiting Nil-Externality for Fast Replicated Storage, SOSP, 2021.
+* Memory-Harvesting VMs in Cloud Platforms, ASPLOS, 2022.
+* The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems, SOSP, 2021.
+* A General Approach to Network Configuration Verification, SIGCOMM, 2017.
