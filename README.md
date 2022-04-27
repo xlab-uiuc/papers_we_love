@@ -36,7 +36,7 @@
 * A General Approach to Network Configuration Verification, SIGCOMM, 2017.
 
 
-## [Tyler](https://tylergu.com/)'s Top Picks (4/27/2022) [(Slides)]()
+## [Tyler](https://tylergu.com/)'s Top Picks (4/27/2022) [(Slides)](https://docs.google.com/presentation/d/1lTkjrdveOcdCq7kImig9F6MLoOU5o_YbXYjh_IEeFE8/edit?usp=sharing)
 * MapReduce: Simplified Data Processing on Large Clusters, OSDI, 2004.
 * PyTorch Distributed: Experiences on Accelerating Data Parallel Training, VLDB, 2020.
 * PipeDream: Generalized Pipeline Parallelism for DNN Training, SOSP, 2019.
