@@ -28,7 +28,7 @@
 * A Cloud-Scale Acceleration Architecture, MICRO, 2016.
 * AIFM: High-Performance, Application-Integrated Far Memory, OSDI, 2020.
 
-## [Siyuan](https://schai.me/)'s Top Picks (3/23/2022) [(Slides)]()
+## [Siyuan](https://schai.me/)'s Top Picks (3/23/2022) [(Slides)](https://docs.google.com/presentation/d/15wDmpKp8wZQgZj0VqE1QQysuNZHZGmBwGBZYky1gNcc/edit?usp=sharing)
 * MapReduce: Simplified Data Processing on Large Clusters, OSDI, 2004.
 * Exploiting Nil-Externality for Fast Replicated Storage, SOSP, 2021.
 * Memory-Harvesting VMs in Cloud Platforms, ASPLOS, 2022.
