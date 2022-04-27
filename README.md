@@ -23,7 +23,7 @@
 
 ## [Xuhao](https://www.xuhaol.com/)'s Top Picks (3/2/2022) [(Slides)](https://docs.google.com/presentation/d/1tGXN5pZ-qaA7oG2JLUCWPsGj4A2Yiqm6ClKcw0ehN_Y/edit?usp=sharing)
 * On the Duality of Operating System Structures, SIGOPS Operating Systems Review, 1979.
-* The Design and Implementation of a Log-Structured File System, TOCS, 1992.
+* The Design and Implementation of a Log-Structured File System, SOSP, 1991.
 * In Search of an Understandable Consensus Algorithm, USENIX ATC, 2014.
 * A Cloud-Scale Acceleration Architecture, MICRO, 2016.
 * AIFM: High-Performance, Application-Integrated Far Memory, OSDI, 2020.
@@ -34,3 +34,11 @@
 * Memory-Harvesting VMs in Cloud Platforms, ASPLOS, 2022.
 * The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems, SOSP, 2021.
 * A General Approach to Network Configuration Verification, SIGCOMM, 2017.
+
+
+## [Tyler](https://tylergu.com/)'s Top Picks (4/27/2022) [(Slides)]()
+* MapReduce: Simplified Data Processing on Large Clusters, OSDI, 2004.
+* PyTorch Distributed: Experiences on Accelerating Data Parallel Training, VLDB, 2020.
+* PipeDream: Generalized Pipeline Parallelism for DNN Training, SOSP, 2019.
+* Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code, SOSP, 2001.
+* The Design and Implementation of a Log-Structured File System, SOSP, 1991.
