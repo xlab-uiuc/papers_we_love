@@ -36,9 +36,16 @@
 * A General Approach to Network Configuration Verification, SIGCOMM, 2017.
 
 
-## [Tyler](https://tylergu.com/)'s Top Picks (4/27/2022) [(Slides)]()
+## [Tyler](https://tylergu.com/)'s Top Picks (4/27/2022) [(Slides)](https://docs.google.com/presentation/d/1lTkjrdveOcdCq7kImig9F6MLoOU5o_YbXYjh_IEeFE8/edit?usp=sharing)
 * MapReduce: Simplified Data Processing on Large Clusters, OSDI, 2004.
 * PyTorch Distributed: Experiences on Accelerating Data Parallel Training, VLDB, 2020.
 * PipeDream: Generalized Pipeline Parallelism for DNN Training, SOSP, 2019.
 * Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code, SOSP, 2001.
 * The Design and Implementation of a Log-Structured File System, SOSP, 1991.
+
+## [Tianyin](https://tianyin.github.io/)'s Top Picks (4/27/2022) [(Slides)](https://docs.google.com/presentation/d/10JdqHG3Hrw96bTXS6SphoV8n6k9GSMoUUqoG_yBe0fo/edit#slide=id.g1180c3bffa6_0_0)
+* The Design and Implementation of a Log-Structured File System, SOSP, 1991.
+* Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code, SOSP, 2001.
+* Do Not Blame Users for Misconfigurations, SOSP, 2013.
+* Testing Configuration Changes in Context to Prevent Production Failures, OSDI, 2020.
+* Elastic Cuckoo Page Tables: Rethinking Virtual Memory Translation for Parallelism, ASPLOS, 2020.
