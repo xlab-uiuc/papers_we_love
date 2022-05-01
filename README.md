@@ -1,5 +1,10 @@
 # Papers We Love
 
+## Hall of Favor
+* (3 votes) MapReduce: Simplified Data Processing on Large Clusters, OSDI, 2004.
+* (3 votes) The Design and Implementation of a Log-Structured File System, SOSP, 1991.
+* (3 votes) Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code, SOSP, 2001.
+
 ## [Xudong](https://marshtompsxd.github.io/)'s Top Picks (2/9/2022) [(Slides)](https://docs.google.com/presentation/d/1dGYgfGT96ekEC5KGs6lk9UP8oMRulZWKX82AfLRoQ9E/edit?usp=sharing)
 * Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code, SOSP, 2001.
 * Redundancy Does Not Imply Fault Tolerance: Analysis of Distributed Storage Reactions to Single Errors and Corruptions, FAST, 2017.
