@@ -54,3 +54,10 @@
 * Do Not Blame Users for Misconfigurations, SOSP, 2013.
 * Testing Configuration Changes in Context to Prevent Production Failures, OSDI, 2020.
 * Elastic Cuckoo Page Tables: Rethinking Virtual Memory Translation for Parallelism, ASPLOS, 2020.
+
+## [Hao](https://linhao.me)'s Top Picks (12/17/2023)
+* Xen and the Art of Virtualization, SOSP, 2003.
+* Hints for Computer System Design, SOSP, 1983.
+* LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation, OSDI, 2018.
+* The Part-Time Parliament, Transactions on Computer Systems, 1998.
+* Comprehensive Formal Verification of an OS Microkernel, Transactions on Computer Systems, 2014.
